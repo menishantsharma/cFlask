@@ -1,7 +1,7 @@
 
 # cFlask - HTTP C-based flask server
 
-cFlask is a mini flask, purely written in c, implementing handling logic of various types of GET requests like simple get request, get request with query parameters ec.
+cFlask is a mini flask, purely written in c, implementing handling logic of various types of GET requests like simple get request, get request with query parameters etc.
 ## Features
 
 - Uses Civetweb library to create web server.
