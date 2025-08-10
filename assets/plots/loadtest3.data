@@ -1,0 +1,38 @@
+Load Test Results: http://localhost:9999/arithmetic/fibonacci?num=500000
+--------------------------------------
+Thread Pool Size: 1
+Concurrency: 1, Requests per second: 707.62
+Concurrency: 2, Requests per second: 747.77
+Concurrency: 3, Requests per second: 741.20
+Concurrency: 4, Requests per second: 748.62
+Concurrency: 5, Requests per second: 755.63
+Concurrency: 6, Requests per second: 747.87
+Concurrency: 7, Requests per second: 749.88
+Concurrency: 8, Requests per second: 753.41
+Concurrency: 9, Requests per second: 757.82
+Concurrency: 10, Requests per second: 756.88
+
+Thread Pool Size: 3
+Concurrency: 1, Requests per second: 683.33
+Concurrency: 2, Requests per second: 1271.81
+Concurrency: 3, Requests per second: 2088.70
+Concurrency: 4, Requests per second: 2310.06
+Concurrency: 5, Requests per second: 2108.82
+Concurrency: 6, Requests per second: 2083.54
+Concurrency: 7, Requests per second: 1923.69
+Concurrency: 8, Requests per second: 2095.15
+Concurrency: 9, Requests per second: 2062.79
+Concurrency: 10, Requests per second: 1998.50
+
+Thread Pool Size: 5
+Concurrency: 1, Requests per second: 682.08
+Concurrency: 2, Requests per second: 1304.67
+Concurrency: 3, Requests per second: 1850.71
+Concurrency: 4, Requests per second: 2305.02
+Concurrency: 5, Requests per second: 2641.79
+Concurrency: 6, Requests per second: 2474.59
+Concurrency: 7, Requests per second: 2587.58
+Concurrency: 8, Requests per second: 2895.57
+Concurrency: 9, Requests per second: 2848.74
+Concurrency: 10, Requests per second: 2582.19
+

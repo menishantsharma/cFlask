@@ -1,0 +1,38 @@
+Load Test Results: http://localhost:9999/arithmetic/prime?num=999999937
+--------------------------------------
+Thread Pool Size: 1
+Concurrency: 1, Requests per second: 2763.04
+Concurrency: 2, Requests per second: 3365.29
+Concurrency: 3, Requests per second: 3528.77
+Concurrency: 4, Requests per second: 3619.35
+Concurrency: 5, Requests per second: 3361.58
+Concurrency: 6, Requests per second: 3572.11
+Concurrency: 7, Requests per second: 3448.97
+Concurrency: 8, Requests per second: 3382.08
+Concurrency: 9, Requests per second: 3332.92
+Concurrency: 10, Requests per second: 3567.87
+
+Thread Pool Size: 3
+Concurrency: 1, Requests per second: 2524.63
+Concurrency: 2, Requests per second: 5004.66
+Concurrency: 3, Requests per second: 6906.39
+Concurrency: 4, Requests per second: 9967.07
+Concurrency: 5, Requests per second: 10408.06
+Concurrency: 6, Requests per second: 10350.96
+Concurrency: 7, Requests per second: 10254.35
+Concurrency: 8, Requests per second: 10530.84
+Concurrency: 9, Requests per second: 10436.58
+Concurrency: 10, Requests per second: 10224.76
+
+Thread Pool Size: 5
+Concurrency: 1, Requests per second: 2370.46
+Concurrency: 2, Requests per second: 4718.33
+Concurrency: 3, Requests per second: 7252.05
+Concurrency: 4, Requests per second: 9736.36
+Concurrency: 5, Requests per second: 11637.65
+Concurrency: 6, Requests per second: 12117.42
+Concurrency: 7, Requests per second: 13512.71
+Concurrency: 8, Requests per second: 13409.18
+Concurrency: 9, Requests per second: 12517.12
+Concurrency: 10, Requests per second: 12949.64
+

@@ -1,0 +1,38 @@
+Load Test Results: http://localhost:9999/pingpong?str=Nishant
+--------------------------------------
+Thread Pool Size: 1
+Concurrency: 1, Requests per second: 18249.64
+Concurrency: 2, Requests per second: 24769.64
+Concurrency: 3, Requests per second: 23630.94
+Concurrency: 4, Requests per second: 28937.19
+Concurrency: 5, Requests per second: 28545.82
+Concurrency: 6, Requests per second: 28805.49
+Concurrency: 7, Requests per second: 26980.21
+Concurrency: 8, Requests per second: 27897.89
+Concurrency: 9, Requests per second: 28372.66
+Concurrency: 10, Requests per second: 29721.39
+
+Thread Pool Size: 3
+Concurrency: 1, Requests per second: 16094.14
+Concurrency: 2, Requests per second: 27046.62
+Concurrency: 3, Requests per second: 27169.78
+Concurrency: 4, Requests per second: 27674.15
+Concurrency: 5, Requests per second: 27616.07
+Concurrency: 6, Requests per second: 28346.12
+Concurrency: 7, Requests per second: 27050.42
+Concurrency: 8, Requests per second: 26206.55
+Concurrency: 9, Requests per second: 27752.65
+Concurrency: 10, Requests per second: 27822.14
+
+Thread Pool Size: 5
+Concurrency: 1, Requests per second: 16359.92
+Concurrency: 2, Requests per second: 26973.66
+Concurrency: 3, Requests per second: 25997.93
+Concurrency: 4, Requests per second: 26572.85
+Concurrency: 5, Requests per second: 26817.56
+Concurrency: 6, Requests per second: 26563.81
+Concurrency: 7, Requests per second: 28433.97
+Concurrency: 8, Requests per second: 26256.92
+Concurrency: 9, Requests per second: 26486.56
+Concurrency: 10, Requests per second: 28289.50
+
